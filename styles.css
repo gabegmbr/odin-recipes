@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(31, 31, 30);
+}
+
+div {
+    font-family: 'Playfair Display', Arial;
+    color: rgb(255, 245, 199);
+}
+
+a:link, a:visited{
+    color: rgb(255, 245, 199);
+}
+
+.header{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.list{
+    font-size: 20px;
+    font-weight: 400;
+}
