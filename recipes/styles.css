@@ -3,6 +3,8 @@ body {
 }
 
 div {
+    margin: auto;
+    width: 600px;
     font-family: 'Playfair Display', Arial;
     color: rgb(255, 245, 199);
 }
@@ -11,15 +13,27 @@ a:link, a:visited{
     color: rgb(255, 245, 199);
 }
 
-.header{
+a:hover{
+    color:pink;
+}
 
-    font-size: 40px;
+.header{
+    
+    color: rgb(31, 31, 30);
+    background-color: rgb(255, 245, 199);
+    padding: 5px 10px;
+    font-size: 30px;
     font-weight: 800;
+    margin-top: 50px;
+    text-align: center;
 }
 
 .header2{
-    font-size: 32px;
+    width: 200px;
+    font-size: 25px;
     font-weight: 800;
+    margin: auto;
+    text-align: center;
 }
 
 .list{
